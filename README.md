@@ -55,7 +55,6 @@ Ingeniero en Sistemas | Maker | Innovador
 
 
 
----
 
 ## 📊 Estadísticas de GitHub
 
