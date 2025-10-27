@@ -22,19 +22,7 @@ Ingeniero en Sistemas | Maker | Innovador
 
 > Estudiante del **Instituto Tecnológico de Chetumal**, apasionado por la **innovación tecnológica con impacto social**. Combino desarrollo de software full-stack con fabricación digital y electrónica para crear soluciones reales a problemas cotidianos.
 
-### 🔭 Proyectos Actuales
 
-```yaml
-🎓 Tesis:
-  - Tratamiento de aguas mediante celdas de combustible microbiano (MFC)
-  - Investigación en biotecnología y sustentabilidad
-
-💼 Desarrollo Software:
-  - Livertec+: Super-app para estudiantes universitarios
-  - MARU: Plataforma de salud con inteligación artificial
-  - ATLAS: Sistema de cultura y turismo inteligente
-  - Credifácil: Gestión y control de microcréditos
-```
 
 ---
 
@@ -64,80 +52,6 @@ Ingeniero en Sistemas | Maker | Innovador
 
 ---
 
-## 🎯 Proyectos Destacados
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🖨️ Printess 3D Printer</h3>
-      <div align="center">
-        <a href="https://github.com/Romanu-pg/Printess-Low-Cost-3D-Printer" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Proyecto-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
-        </a>
-        <p>
-          <strong>Impresora 3D Low-Cost</strong><br/>
-          Diseño e investigación de impresora 3D accesible para educación y makers
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CAD-0696D7?style=flat&logo=autodesk&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Marlin-000000?style=flat&logo=3d-printing&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">✏️ CNC Drawing Machine</h3>
-      <div align="center">
-        <a href="https://github.com/Romanu-pg/CNC-DrawingMachine" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Proyecto-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
-        </a>
-        <p>
-          <strong>Plotter CNC Simple</strong><br/>
-          Máquina de dibujo automatizada para educación STEM
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-          <img src="https://img.shields.io/badge/GRBL-FF6B35?style=flat&logo=cnc&logoColor=white"/>
-          <img src="https://img.shields.io/badge/DIY-FFC107?style=flat&logo=diy&logoColor=black"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">♻️ Polyformer</h3>
-      <div align="center">
-        <a href="https://github.com/Romanu-pg/Polyformer" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Proyecto-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
-        </a>
-        <p>
-          <strong>Reciclaje PET → Filamento 3D</strong><br/>
-          Fork de investigación para convertir botellas en filamento para impresión 3D
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Sustentabilidad-00C853?style=flat&logo=leaf&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Reciclaje-8BC34A?style=flat&logo=recycle&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔌 EBB Electronics</h3>
-      <div align="center">
-        <a href="https://github.com/Romanu-pg/EBB" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Proyecto-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
-        </a>
-        <p>
-          <strong>Electrónica para Bots</strong><br/>
-          Estudio y adaptación de controladores para robots de dibujo
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Electronics-FF5722?style=flat&logo=circuitverse&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PCB-009688?style=flat&logo=pcb&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   
