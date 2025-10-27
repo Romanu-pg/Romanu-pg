@@ -69,16 +69,6 @@ Ingeniero en Sistemas | Maker | Innovador
 
 ---
 
-## 🤝 Colaboración e Impacto
-
-```javascript
-const colaboraciones = {
-  educacion: ["Talleres STEM", "Robótica educativa", "Capacitación en fabricación digital"],
-  tecnologia: ["Desarrollo full-stack", "Diseño CNC", "Electrónica con Arduino"],
-  sustentabilidad: ["Tratamiento de aguas", "Reciclaje tecnológico", "Energías limpias"],
-  comunidad: ["Proyectos de código abierto", "Mentoría técnica", "Innovación social"]
-};
-```
 
 ### 🎯 Áreas de Interés
 - 🌐 **Full-stack Development** (React, React Native, Node.js, Express)
@@ -97,7 +87,7 @@ const colaboraciones = {
 ### *Siempre abierto a colaborar en proyectos con impacto real*
 
 [![Email](https://img.shields.io/badge/✉️_tucorreo@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/román-emilio-h-b85135335)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://romanu-pg.github.io)
 
 ---
