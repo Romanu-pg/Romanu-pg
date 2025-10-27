@@ -53,12 +53,7 @@ Ingeniero en Sistemas | Maker | Innovador
 ---
 
 
-<div align="center">
-  
-### 🔒 Proyectos Privados en Desarrollo
-**MARU** · **Livertec+** · **ATLAS** · **Credifácil**
 
-</div>
 
 ---
 
