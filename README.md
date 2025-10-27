@@ -20,7 +20,7 @@ Ingeniero en Sistemas | Maker | Innovador
 
 ## 🚀 Sobre Mí
 
-> Estudiante del **Instituto Tecnológico de Chetumal**, apasionado por la **innovación tecnológica con impacto social**. Combino desarrollo de software full-stack con fabricación digital y electrónica para crear soluciones reales a problemas cotidianos.
+> Estudiante de **Ingeniería en Sistemas Computacionales**, apasionado por la **innovación tecnológica con impacto social**. Combino desarrollo de software full-stack con fabricación digital y electrónica para crear soluciones reales a problemas cotidianos.
 
 
 
