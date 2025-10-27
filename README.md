@@ -11,7 +11,7 @@ Ingeniero en Sistemas | Maker | Innovador
 ### 💻 Full-stack Developer · 🔬 Investigador en Tecnologías Sustentables
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-romanu--pg.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://romanu-pg.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/román-emilio-h-b85135335)
 [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@example.com)
 
 ---
