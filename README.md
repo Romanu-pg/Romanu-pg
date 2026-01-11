@@ -30,24 +30,19 @@ Ingeniero en Sistemas | Maker | Innovador
 
 ### 💻 Desarrollo Web & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,reactnative" alt="Frontend" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Backend" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
 </p>
 
 ### 🎨 UI/UX & Styling
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,figma,materialui" alt="Design" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,materialui" alt="Design" />
 </p>
 
 ### ⚙️ Hardware & Fabricación Digital
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,python" alt="Hardware" />
-</p>
-
-### 🔧 Herramientas & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,linux" alt="Tools" />
 </p>
 
 ---
