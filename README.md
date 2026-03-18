@@ -5,10 +5,7 @@ Ingeniero en Sistemas | Maker | Innovador
 
 <div align="center">
   
-# 👋 ¡Hola! Soy Roman
-
-### 🎓 Estudiante de Ingeniería en Sistemas · 🔧 Maker & CNC · 🤖 Robótica
-### 💻 Full-stack Developer · 🔬 Investigador en Tecnologías Sustentables
+# 👋 ¡Hola!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-romanu--pg.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://romanu-pg.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/román-emilio-h-b85135335)
